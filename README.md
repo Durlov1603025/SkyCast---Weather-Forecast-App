@@ -11,3 +11,6 @@ Key Features:
 **Data Source:** The app fetches weather data from a trusted and reputable weather data API, ensuring accuracy and reliability.
 
 **Intuitive UI:** The user interface is designed with user-friendliness in mind, offering an attractive and clear display of weather information
+
+![image](https://github.com/Durlov1603025/SkyCast---Weather-Forecast-App/assets/53161692/2191b158-b279-4cf2-9fcc-03d6d8096387)
+

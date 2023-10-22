@@ -1,0 +1,17 @@
+/* src/Weather.css */
+
+.bg-blue-100 {
+    background-color: #f0f5ff;
+  }
+  
+  .rounded {
+    border-radius: 0.25rem;
+  }
+  
+  .shadow-lg {
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  }
+
+  .text-wht{
+    color: white;
+  }
